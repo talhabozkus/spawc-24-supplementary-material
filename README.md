@@ -1,1 +1,1 @@
-# spawc-24-supplementary-material
+Please find the supplementary appendix file for the paper "Coverage Analysis of Multi-Environment Ensemble Q-Learning Algorithms for Optimizing Wireless Networks with Large State-Spaces", by Talha Bozkus and Urbashi Mitra, submitted to SPAWC 2024.
